@@ -43,7 +43,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jungju Oh
+  name: jungju
   email: "jungju.oh@gmail.com"
 #  facebook: aojjang  # eg. daattali
   github: aojjang    # eg. daattali
